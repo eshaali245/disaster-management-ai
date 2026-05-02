@@ -25,10 +25,15 @@ This project integrates **Machine Learning + Data Visualization + Parallel Compu
 ## 🎯 Key Features
 
 ✅ AI-based **Priority Prediction** (Low → Critical)
+
 ✅ Interactive **Streamlit Dashboard**
+
 ✅ **Parallel Disaster Simulation** (multi-process)
+
 ✅ Real-time **System Monitoring (CPU & RAM)**
+
 ✅ Advanced **Data Visualization (graphs + heatmaps)**
+
 ✅ Clean and modern **Dark UI Theme**
 
 ---
@@ -187,6 +192,7 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 **Esha Ali**
+
   AI / Data Science
 
 ---
