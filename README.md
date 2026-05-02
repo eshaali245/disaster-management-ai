@@ -174,17 +174,6 @@ streamlit run app.py
 
 ---
 
-## 📸 (Optional) Screenshots
-
-> Add screenshots here for better presentation:
-
-```
-Screenshot 2026-05-02 193918.png
-
-
-```
-
----
 
 ## 🧠 Future Improvements
 
