@@ -1,0 +1,20 @@
+{
+  "random_forest_accuracy": 100.0,
+  "decision_tree_accuracy": 100.0,
+  "best_model": "Random Forest",
+  "features": [
+    "Disaster_enc",
+    "Location_enc",
+    "Severity_enc",
+    "People_Affected",
+    "Ambulance_Needed",
+    "Resources_Needed",
+    "Response_Time"
+  ],
+  "classes": [
+    "Critical",
+    "High",
+    "Low",
+    "Medium"
+  ]
+}
