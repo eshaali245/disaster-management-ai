@@ -179,8 +179,12 @@ streamlit run app.py
 > Add screenshots here for better presentation:
 
 ```
-/screenshots/dashboard.png
-/screenshots/graphs.png
+<img width="1346" height="545" alt="image" src="https://github.com/user-attachments/assets/25c56c21-0913-40ca-93ff-02d9b0be67e1" />
+
+<img width="1200" height="571" alt="image" src="https://github.com/user-attachments/assets/0ae76dc2-bfb7-4447-acff-920c888c17a0" />
+
+<img width="1191" height="567" alt="image" src="https://github.com/user-attachments/assets/5848794e-7076-4cee-b519-82b775ab2d02" />
+
 ```
 
 ---
